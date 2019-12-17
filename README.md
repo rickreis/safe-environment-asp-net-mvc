@@ -1,4 +1,4 @@
-safe-environment-asp-net-mvc
+Safe Environment ASP .NET MVC
 ============================
 Safe environment for ASP .NET MVC applications.
 
